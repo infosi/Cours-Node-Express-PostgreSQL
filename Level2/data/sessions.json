@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Le futur du JavaScript",
+      "dateTime": "2023-01-09 10:00:00-05",
+      "room": "Porte 7",
+      "description": "Depuis sa création en 1995, JavaScript est devenu le langage le plus populaire du Web. Avec les nouveaux ajouts à la norme ECMAScript, il n''y a aucun signe de ralentissement à cet égard. Découvrez dans ce discours spectaculaire ce que l''avenir nous réserve.",
+      "speakers": [
+        {
+          "id": "1",
+          "name": "John Doe",
+          "bio": "Maître de toutes les choses en JavaScript. Berger de chat. Amoureux d''ECMAScript.",
+          "email": "john.doe@todou.com",
+          "pictureUrl": "https://images.unsplash.com/photo-1596981665119-3c67b0a2d6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1393&q=80"
+        },
+        {
+          "id": "2",
+          "name": "Amelia Night",
+          "bio": "Amelia Night code la nuit et durant la journée. Sa mission est de rendre le web accessible.",
+          "email": "llaetitia.night@tonight.com",
+          "pictureUrl": "https://images.unsplash.com/photo-1618422168181-177d9d0a1fca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Introduction aux composants Web",
+      "dateTime": "2023-01-09 11:00:00-05",
+      "room": "Porte 42",
+      "description": "Avec les composants Web, les développeurs peuvent adopter une véritable architecture basée sur les composants, qui utilise les principales API du navigateur. Cela les rend facilement utilisables sur n''importe quel navigateur moderne. Venez découvrir dans cette session ce que sont les composants Web et comment ils peuvent vous faciliter la vie.",
+      "speakers": [
+        {
+          "id": "2",
+          "name": "Amelia Night",
+          "bio": "Amelia Night code la nuit et durant la journée. Sa mission est de rendre le web accessible.",
+          "email": "llaetitia.night@tonight.com",
+          "pictureUrl": "https://images.unsplash.com/photo-1618422168181-177d9d0a1fca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+        }
+      ]
+    }
+  ]
+}
