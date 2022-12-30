@@ -5,7 +5,7 @@
     "height": 2000,
     "scrollTop": -5,
     "scrollLeft": -1,
-    "zoomLevel": 0.9,
+    "zoomLevel": 1,
     "show": {
       "tableComment": true,
       "columnComment": true,
@@ -163,10 +163,10 @@
           }
         ],
         "ui": {
-          "active": true,
+          "active": false,
           "left": 113,
           "top": 94,
-          "zIndex": 12,
+          "zIndex": 3,
           "widthName": 60,
           "widthComment": 60
         },
@@ -294,10 +294,10 @@
           }
         ],
         "ui": {
-          "active": false,
-          "left": 135,
-          "top": 313,
-          "zIndex": 1,
+          "active": true,
+          "left": 117,
+          "top": 315,
+          "zIndex": 4,
           "widthName": 60,
           "widthComment": 60
         },
@@ -359,7 +359,7 @@
           "active": false,
           "left": 604,
           "top": 235,
-          "zIndex": 6,
+          "zIndex": 2,
           "widthName": 112.55712890625,
           "widthComment": 60
         },
@@ -401,7 +401,7 @@
             "fdc12cbb-8697-495c-874c-1afdb7ebf4e3"
           ],
           "x": 604,
-          "y": 317.5,
+          "y": 262.5,
           "direction": "left"
         },
         "constraintName": "fk_sessions_to_sessions_speakers",
@@ -417,8 +417,8 @@
           "columnIds": [
             "bf73fb29-6b60-4567-b7d3-db6afb2eeae9"
           ],
-          "x": 523.708984375,
-          "y": 398.75,
+          "x": 505.708984375,
+          "y": 400.75,
           "direction": "right"
         },
         "end": {
@@ -427,7 +427,7 @@
             "4a323278-0026-4703-b966-a73cf1cbffd8"
           ],
           "x": 604,
-          "y": 262.5,
+          "y": 317.5,
           "direction": "left"
         },
         "constraintName": "fk_speakers_to_sessions_speakers",
