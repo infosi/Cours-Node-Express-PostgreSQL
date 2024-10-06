@@ -128,6 +128,6 @@ SELECT * FROM SESSIONS;
 
 # Cas pratique Level 4
 
-1 - Adapter la version du projet actuel en ajoutant une table utisateur dans la bases de données  
-2 - Implémenter les routes pour créer, modifier ou supprimer un utilisateur mais aussi pour connaître toutes les sessions associés à un visiteur  
+1 - Adapter la version du projet actuel en ajoutant une table utilisateur dans la bases de données  
+2 - Implémenter les routes pour créer, modifier ou supprimer un utilisateur mais aussi pour connaître toutes les sessions associées à un visiteur  
 3 - Améliorer la strucutre des fichiers et des dossiers  
